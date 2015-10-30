@@ -1,0 +1,6 @@
+A 21 90 - =
+B A 90 + =
+C B B * 3 =
+OUT A
+OUT B
+OUT C

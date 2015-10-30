@@ -1,0 +1,4 @@
+NumVar1 40.2 2.5 / 80 + =
+NumVar2 NumVar1 2 / 15.5 - =
+RUN file1.pst
+RUN file2.pst

@@ -1,0 +1,3 @@
+A 3 2 + 1.4 * =
+B A 2 * =
+RUN file1.pst
